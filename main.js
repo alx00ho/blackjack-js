@@ -74,3 +74,18 @@ function clear() {
   cardsEl.textContent = "Cards: ";
   sumEl.textContent = "Sum: ";
 }
+
+// Object Examples
+// let person = {
+//   name: "Alex",
+//   age: 22,
+//   country: "USA",
+
+//   logData() {
+//     console.log(
+//       `${this.name} is ${this.age} years old and lives in ${this.country}`
+//     );
+//   },
+// };
+
+// person.logData();
